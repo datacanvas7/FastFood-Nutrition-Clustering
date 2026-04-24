@@ -42,4 +42,5 @@ Unsupervised machine learning project that segments 722 food items into distinct
 | **Marketing Optimization** | Enables segment-specific targeting (fitness, wellness, indulgence) |
 | **Menu Rationalization** | 47 redundant items identified across clusters, potential 15% SKU reduction |
 | **Competitive Positioning** | Gap analysis reveals opportunity in high-protein, low-carb segment (+32% growth potential) |
----Structure
+
+---

@@ -1,0 +1,4 @@
+Business Problem Statement:
+
+Fast food chains lack data-driven understanding of how menu items cluster nutritionally across the industry, leading to inefficient product development and missed market opportunities. This analysis segments items by nutritional profiles to identify underserved markets, optimize menu strategy, and target health-conscious consumers effectively—ultimately improving R&D ROI and competitive positioning in the growing wellness-focused market.
+
